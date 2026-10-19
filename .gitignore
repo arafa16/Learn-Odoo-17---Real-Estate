@@ -1,0 +1,4 @@
+config/
+odoo-data/
+odoo-postgres/
+.env
